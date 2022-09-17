@@ -38,3 +38,8 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# Tested
+
+main-f.py
+main-w.py

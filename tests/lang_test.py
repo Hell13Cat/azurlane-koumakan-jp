@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import unittest
 
-from wikipedia import wikipedia
+from azurlanekoumakanjp import wikipedia
 
 
 class TestLang(unittest.TestCase):
