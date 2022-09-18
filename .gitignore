@@ -43,3 +43,4 @@ nosetests.xml
 
 main-f.py
 main-w.py
+test.html
